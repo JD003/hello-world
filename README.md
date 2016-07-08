@@ -1,2 +1,3 @@
 # hello-world
-This is my 1st repository
+
+This is my 1st repository! I am excited to learn something new. I have always wanted to see if I could do this and here is my chance...
